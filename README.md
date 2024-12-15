@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning htlm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me I don't know
-- 😄 Pronouns: not
+- 😄 Pronouns: 
 - ⚡ Fun fact: I'am beginer
 
 <!---
